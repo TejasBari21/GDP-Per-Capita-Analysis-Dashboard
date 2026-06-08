@@ -1,4 +1,4 @@
-# Global GDP Life Expectancy Dashboard
+# GDP Per Capita Analysis Dashboard
 
 ## Project Overview
 
